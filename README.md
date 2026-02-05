@@ -19,10 +19,10 @@ My goal is to grow as a developer by practicing daily, building real projects, a
 
 ## 🚀 Skills I’m learning & using:
 
-HTML5 
-CSS3 
-Tailwind CSS 
-JavaScript (in progress) 
+• HTML5 
+• CSS3 
+• Tailwind CSS 
+• JavaScript (in progress) 
 📚 Always learning, always improving.
 
 ## 🌐 Socials:
