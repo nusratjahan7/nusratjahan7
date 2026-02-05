@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I Love Coding
 
-👩‍💻 About Me:
+## 👩‍💻 About Me:
 
 Hi! I’m a beginner web developer who loves learning and building things for the web.
 I’ve completed HTML5, CSS3, and Tailwind CSS, and I’m currently learning JavaScript to make my projects more interactive and dynamic.
 I enjoy creating clean, responsive designs and improving my skills step by step.
 My goal is to grow as a developer by practicing daily, building real projects, and learning modern web technologies.
 
-🚀 Skills I’m learning & using:
+## 🚀 Skills I’m learning & using:
 
 HTML5
 CSS3
