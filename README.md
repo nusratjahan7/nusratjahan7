@@ -3,7 +3,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web development project 
-- 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on Web development project
 - 🤔 I’m looking for help with Web development
 - 💬 Ask me about Web development
@@ -12,8 +11,8 @@ Here are some ideas to get you started:
 
 ## 👩‍💻 About Me:
 
-Hi! I’m a beginner web developer who loves learning and building things for the web.
-I’ve completed HTML5, CSS3, and Tailwind CSS, and I’m currently learning JavaScript to make my projects more interactive and dynamic.
+Hi! I’m a web developer who loves learning and building things for the web.
+I’ve completed HTML5, CSS3, and Tailwind CSS, JavaScript, react and I’m currently learning how to make my projects more interactive and dynamic.
 I enjoy creating clean, responsive designs and improving my skills step by step.
 My goal is to grow as a developer by practicing daily, building real projects, and learning modern web technologies.
 
@@ -22,7 +21,8 @@ My goal is to grow as a developer by practicing daily, building real projects, a
 • HTML5 
 • CSS3 
 • Tailwind CSS 
-• JavaScript (in progress) 
+• JavaScript
+• React 
 📚 Always learning, always improving.
 
 ## 🌐 Socials:
