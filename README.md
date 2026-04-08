@@ -44,7 +44,7 @@
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 💕 &nbsp; I love creating Modern UI designs and turning them into real, working websites.
+- 💕 &nbsp; Creating Modern UI designs and turning them into real, working websites.
 
 <hr/>
 
