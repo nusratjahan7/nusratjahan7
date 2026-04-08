@@ -35,7 +35,7 @@
 
 <hr/>
 
-<img align="right" height="250" width="365" alt="" src="./imges/Untitled (1080 x 1276 px) (1080 x 1167 px).mp4" />
+<img align="right" height="250" width="365" alt="" src="./imges/coding.gif" />
 
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working with <strong>JS, React</strong>
