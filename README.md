@@ -30,10 +30,11 @@
 <a href="mailto:nusratjahan77222@gamil.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
-
 </p>
 <hr/>
 <img align="right" height="250" width="300"  alt="" src="./imges/coding.gif" />
+
+
 
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working with <strong>JS, React</strong>
