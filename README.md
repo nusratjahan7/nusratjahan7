@@ -35,6 +35,8 @@
 
 <hr/>
 
+<img align="right" height="250" width="365" alt="" src="./imges/Untitled (1080 x 1276 px) (1080 x 1167 px).mp4" />
+
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working with <strong>JS, React</strong>
 - 🚀 &nbsp; I’m currently exploring <strong>React Router, Debugging and problem-solving technique</strong>
