@@ -40,7 +40,7 @@
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working with <strong>JS, React</strong>
 - 🚀 &nbsp; I’m currently exploring <strong>React Router, Debugging and problem-solving technique</strong>
-- 📫 &nbsp; Reach me out: <strong>nusratjahan77222@gmail.com.</strong>
+- 📫 &nbsp; Reach me out: <strong>nusratjahan77222@gmail.com </strong>
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
