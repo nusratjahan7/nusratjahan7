@@ -2,7 +2,7 @@
 
 <div align="center">
         <img src="./imges/black purple modern gaming channel banner.png">
-    <h1 align="left">
+    <h1 align="right">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&duration=3000&pause=100&width=435&lines=Hello%2C+There+%F0%9F%91%8B;I'm+Nusrat+Jahan...;Nice+to+meet+you!" alt="Typing SVG" style="margin-right: 10px;" />
   </a>
