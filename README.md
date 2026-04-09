@@ -37,8 +37,8 @@
 
 
 ### Talking about Personal Stuff:
-- 🛠 &nbsp; I’m currently working with <strong>JS, React</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>React Router, Debugging and problem-solving technique</strong>
+- 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Next.js, Debugging and problem-solving technique</strong>
 - 📫 &nbsp; Reach me out: <strong>nusratjahan77222@gmail.com </strong>
 
 ### My Absolute Favorites:
