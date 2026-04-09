@@ -80,5 +80,6 @@ const nusratJahan = {
 };
 ```
 ## 📊 &nbsp;Github Stats
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?nusratjahan7=Ashutosh00710&theme=mordern-lilac)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nusratjahan7&bg_color=070305&color=c889c3&line=a72a9f&point=9a7e7e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
