@@ -34,7 +34,7 @@
 <hr/>
 <img align="right" height="250" width="300"  alt="" src="./imges/coding.gif" />
 
-
+<br />
 
 ### Talking about Personal Stuff:
 - 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router</strong>
