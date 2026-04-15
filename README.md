@@ -61,12 +61,10 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<<<<<<< HEAD
 <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-=======
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge" />
->>>>>>> eb4f4aee25a26a9ece5ecbfef2bd9720093bf751
+
 
 </p>
 
@@ -86,5 +84,9 @@ const nusratJahan = {
 };
 ```
 ## 📊 &nbsp;Github Stats
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nusratjahan7&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nusratjahan7&bg_color=000000&color=d06cca&line=b332ad&point=dbadad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
