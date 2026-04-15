@@ -30,21 +30,20 @@
 <a href="mailto:nusratjahan77222@gamil.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
 </a>
-
 </p>
-
 <hr/>
-
 <img align="right" height="250" width="300"  alt="" src="./imges/coding.gif" />
 
+<br />
+
 ### Talking about Personal Stuff:
-- 🛠 &nbsp; I’m currently working with <strong>JS, React</strong>
-- 🚀 &nbsp; I’m currently exploring <strong>React Router, Debugging and problem-solving technique</strong>
-- 📫 &nbsp; Reach me out: <strong>nusratjahan77222@gmail.com.</strong>
+- 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router</strong>
+- 🚀 &nbsp; I’m currently exploring <strong>Next.js, Debugging and problem-solving technique</strong>
+- 📫 &nbsp; Reach me out: <strong>nusratjahan77222@gmail.com </strong>
 
 ### My Absolute Favorites:
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 💕 &nbsp; I love creating Modern UI designs and turning them into real, working websites.
+- 💕 &nbsp; Creating Modern UI designs and turning them into real, working websites.
 
 <hr/>
 
@@ -62,7 +61,12 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<<<<<<< HEAD
 <img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+=======
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge" />
+>>>>>>> eb4f4aee25a26a9ece5ecbfef2bd9720093bf751
 
 </p>
 
@@ -71,7 +75,7 @@ const nusratJahan = {
   pronouns: "she/her",
   code: ["HTML", "CSS", "JavaScript"],
   tools: ["React", "Tailwind CSS", "Git", "GitHub", "Vercel", "Netlify"],
-  learning: ["Advanced JavaScript", "React Router", "Firebase"],
+  learning: ["Next.js"],
   currentFocus: [
     "Building scalable and responsive web applications",
     "Strengthening core JavaScript and React fundamentals",
@@ -81,3 +85,6 @@ const nusratJahan = {
   challenge: "Consistently improving skills by building and shipping projects"
 };
 ```
+## 📊 &nbsp;Github Stats
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nusratjahan7&bg_color=000000&color=d06cca&line=b332ad&point=dbadad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
