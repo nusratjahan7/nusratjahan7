@@ -85,8 +85,9 @@ const nusratJahan = {
 ```
 ## 📊 &nbsp;Github Stats
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nusratjahan7&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+<br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nusratjahan7&bg_color=000000&color=d06cca&line=b332ad&point=dbadad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
