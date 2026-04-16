@@ -87,6 +87,7 @@ const nusratJahan = {
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nusratjahan7&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+        
 ![](https://streak-stats.demolab.com/?user=nusratjahan7&theme=radical&hide_border=true)
 </div>
 <br />
