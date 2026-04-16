@@ -85,7 +85,7 @@ const nusratJahan = {
 ```
 ## 📊 &nbsp;Github Stats
 
-<div align="left" style="display:flex; gap:10px;">
+<div align="center" style="display:flex; gap:10px;">
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=nusratjahan7&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
     height="165"
