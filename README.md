@@ -85,21 +85,16 @@ const nusratJahan = {
 ```
 ## 📊 &nbsp;Github Stats
 
-<div align="center" style="display:flex; gap:10px;">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=nusratjahan7&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com/?user=nusratjahan7&theme=radical&hide_border=true"
-    height="165"
-  />
-</div>
-        
 
-        
-
-<br />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nusratjahan7&bg_color=000000&color=ea75e3&line=992992&point=d19999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br />
+
+<div align="center">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</div>
