@@ -16,7 +16,7 @@
 <p align="center">
 
 <a href="https://facebook.com/nuraisanus">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
 </a>
 
 <a href="https://instagram.com/nuraisa_nusrat">
@@ -28,8 +28,17 @@
 </a>
 
 <a href="mailto:nusratjahan77222@gamil.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </a>
+
+<a href="https://discord.gg/nusratjahan772" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+
+ <a href="https://wa.me/+8801518731771" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+
 </p>
 <hr/>
 <img align="right" height="250" width="300"  alt="" src="./imges/coding.gif" />
@@ -37,11 +46,13 @@
 <br />
 
 ### Talking about Personal Stuff:
+
 - 🛠 &nbsp; I’m currently working with <strong>JS, React, React Router</strong>
 - 🚀 &nbsp; I’m currently exploring <strong>Next.js, Debugging and problem-solving technique</strong>
 - 📫 &nbsp; Reach me out: <strong>nusratjahan77222@gmail.com </strong>
 
 ### My Absolute Favorites:
+
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 💕 &nbsp; Creating Modern UI designs and turning them into real, working websites.
 
@@ -65,7 +76,6 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge" />
 
-
 </p>
 
 ```javascript
@@ -77,16 +87,13 @@ const nusratJahan = {
   currentFocus: [
     "Building scalable and responsive web applications",
     "Strengthening core JavaScript and React fundamentals",
-    "Improving problem-solving and debugging skills"
+    "Improving problem-solving and debugging skills",
   ],
   goals: "Become a full-stack developer",
-  challenge: "Consistently improving skills by building and shipping projects"
+  challenge: "Consistently improving skills by building and shipping projects",
 };
 ```
+
 ## 📊 &nbsp;Github Stats
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nusratjahan7&bg_color=000000&color=ea75e3&line=992992&point=d19999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
