@@ -16,27 +16,27 @@
 <p align="center" style="display: flex; gap: 8px; justify-content: center;">
 
   <a href="https://facebook.com/nuraisanus">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="./images/socials/facebook.png" alt="facebook logo"  />
   </a>
 
   <a href="https://instagram.com/nuraisa_nusrat">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="./images/socials/instagram.png" alt="instagram logo"  />
   </a>
 
   <a href="https://linkedin.com/in/nusratjahan77">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="./images/socials/linkedin.png" alt="linkedin logo"  />
   </a>
 
   <a href="mailto:nusratjahan77222@gamil.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="./images/socials/gmail.png" alt="gmail logo"  />
   </a>
 
   <a href="https://discord.gg/nusratjahan772" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="./images/socials/discord.png" alt="discord logo"  />
   </a>
 
   <a href="https://wa.me/+8801518731771" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="./images/socials/whatsapp.png" alt="whatsapp logo"  />
   </a>
 
 </p>
