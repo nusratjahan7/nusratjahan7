@@ -16,27 +16,27 @@
 <p align="center" style="display: flex; gap: 25px; justify-content: center;">
 
   <a href="https://facebook.com/nuraisanus">
-    <img src="./images/socials/facebook.png" alt="facebook logo" height="45" width="45" />
+    <img src="./images/socials/facebook.png" alt="facebook logo" height="40" width="40" />
   </a>
 
   <a href="https://instagram.com/nuraisa_nusrat">
-    <img src="./images/socials/instagram.png" alt="instagram logo" height="45" width="45" />
+    <img src="./images/socials/instagram.png" alt="instagram logo" height="40" width="40" />
   </a>
 
   <a href="https://linkedin.com/in/nusratjahan77">
-    <img src="./images/socials/linkedin.png" alt="linkedin logo" height="45" width="45" />
+    <img src="./images/socials/linkedin.png" alt="linkedin logo" height="40" width="40" />
   </a>
 
   <a href="mailto:nusratjahan77222@gamil.com">
-    <img src="./images/socials/gmail.png" alt="gmail logo" height="45" width="45" />
+    <img src="./images/socials/gmail.png" alt="gmail logo" height="40" width="40" />
   </a>
 
   <a href="https://discord.gg/nusratjahan772" target="_blank">
-    <img src="./images/socials/discord.png" alt="discord logo" height="45" width="45" />
+    <img src="./images/socials/discord.png" alt="discord logo" height="40" width="40" />
   </a>
 
   <a href="https://wa.me/+8801518731771" target="_blank">
-    <img src="./images/socials/whatsapp.png" alt="whatsapp logo" height="45" width="45" />
+    <img src="./images/socials/whatsapp.png" alt="whatsapp logo" height="40" width="40" />
   </a>
 
 </p>
