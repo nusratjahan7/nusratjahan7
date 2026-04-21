@@ -16,7 +16,7 @@
 <p align="center" style="display: flex; gap: 25px; justify-content: center;">
 
   <a href="https://facebook.com/nuraisanus">
-    <img src="./images/socials/facebook.png" alt="facebook logo" height="40" width="40" />
+    <img src="./images/socials/facebook.png" alt="facebook logo" height="40" width="40" style="margin-right: 8px;" />
   </a>
 
   <a href="https://instagram.com/nuraisa_nusrat">
