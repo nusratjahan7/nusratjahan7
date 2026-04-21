@@ -15,23 +15,23 @@
 
 <p align="center" style="display: flex; gap: 25px; justify-content: center;">
 
-  <a href="https://facebook.com/nuraisanus">
-    <img src="./images/socials/facebook.png" alt="facebook logo" height="40" width="40" style="margin-right: 8px;" />
+  <a href="https://facebook.com/nuraisanus" style="margin-right: 8px;">
+    <img src="./images/socials/facebook.png" alt="facebook logo" height="40" width="40"  />
   </a>
 
-  <a href="https://instagram.com/nuraisa_nusrat">
+  <a href="https://instagram.com/nuraisa_nusrat" style="margin-right: 8px;">
     <img src="./images/socials/instagram.png" alt="instagram logo" height="40" width="40" />
   </a>
 
-  <a href="https://linkedin.com/in/nusratjahan77">
+  <a href="https://linkedin.com/in/nusratjahan77" style="margin-right: 8px;">
     <img src="./images/socials/linkedin.png" alt="linkedin logo" height="40" width="40" />
   </a>
 
-  <a href="mailto:nusratjahan77222@gamil.com">
+  <a href="mailto:nusratjahan77222@gamil.com" style="margin-right: 8px;">
     <img src="./images/socials/gmail.png" alt="gmail logo" height="40" width="40" />
   </a>
 
-  <a href="https://discord.gg/nusratjahan772" target="_blank">
+  <a href="https://discord.gg/nusratjahan772" target="_blank" style="margin-right: 8px;">
     <img src="./images/socials/discord.png" alt="discord logo" height="40" width="40" />
   </a>
 
