@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-<p align="center" style="display: flex; gap: 8px; justify-content: center;">
+<p align="center" style="display: flex; gap: 15px; justify-content: center;">
 
   <a href="https://facebook.com/nuraisanus">
     <img src="./images/socials/facebook.png" alt="facebook logo" height="45" width="45" />
