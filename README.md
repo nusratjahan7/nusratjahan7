@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <strong>Front-End Web Developer 👋 | Expert in JavaScript, React.js | 🚀 Passionate about building modern, user-friendly web applications  🌍 | ⚡ Love creating clean UI and smooth user experiences </strong>
+  <strong>Front-End Web Developer 👋 | Expert in JavaScript, React.js, Next.js | 🚀 Passionate about building modern, user-friendly web applications  🌍 | ⚡ Love creating clean UI and smooth user experiences </strong>
 </div>
 <br/>
 
@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://linkedin.com/in/nusratjahan77">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
 
 <a href="mailto:nusratjahan77222@gamil.com">
