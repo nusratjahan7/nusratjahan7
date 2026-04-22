@@ -63,19 +63,36 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Badge" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge" />
+<img src="./images/tools/html.png" alt="html5" />
+
+<img src="./images/tools/text.png" alt="css3" />
+
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+
+<img src="./images/tools/js.png" alt="js" />
+
+<img src="./images/tools/react.png" alt="react" />
+
+<img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+
+<img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+
+<img src="./images/tools/figma.png" alt="figma" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+
+<img src="./images/tools/github.png" alt="github" />
+
+<img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+
+<img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+
+<img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+
+ <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+
 
 </p>
 
