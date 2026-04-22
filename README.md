@@ -63,31 +63,31 @@
 
 <p align="center">
 
-<img src="./images/tools/html.png" alt="html5" />
+<img src="./images/tools/html.png" alt="html5" height="40"  />
 
-<img src="./images/tools/text.png" alt="css3" />
+<img src="./images/tools/text.png" alt="css3" height="40" />
 
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
 
-<img src="./images/tools/js.png" alt="js" />
+<img src="./images/tools/js.png" alt="js" height="40" />
 
-<img src="./images/tools/react.png" alt="react" />
+<img src="./images/tools/react.png" alt="react" height="40" />
 
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 
-<img src="./images/tools/figma.png" alt="figma" />
+<img src="./images/tools/figma.png" alt="figma" height="40" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 
-<img src="./images/tools/github.png" alt="github" />
+<img src="./images/tools/github.png" alt="github" height="40" />
 
 <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 
 <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
 
-<img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"  />
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" height="40" alt="cloudflare logo"   />
 
 <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
 
