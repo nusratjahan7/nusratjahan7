@@ -81,9 +81,9 @@
 
 <img src="./images/tools/figma.png" alt="figma" height="40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+ <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 
-<img src="./images/tools/github.png" alt="github" height="40" />
+<img src="./images/tools/git.png" alt="github" height="40" />
 
 <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
 
