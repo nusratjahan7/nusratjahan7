@@ -73,6 +73,8 @@
 
 <img src="./images/tools/react.png" alt="react" height="40" />
 
+<img src="./images/tools/React-Router.png" alt="react" height="40" />
+
 <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
 
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
