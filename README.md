@@ -79,6 +79,10 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
 
+<img src="./images/tools/Node.js.png" height="40" alt="nodejs logo"  />
+
+<img src="./images/tools/express.png" height="40" alt="nodejs logo"  />
+
 <img src="./images/tools/figma.png" alt="figma" height="40" />
 
  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
