@@ -83,6 +83,8 @@
 
 <img src="./images/tools/express.png" height="40" alt="express logo"  />
 
+<img src="./images/tools/express-js (1).svg" height="40" alt="express logo"  />
+
 <img src="./images/tools/figma.png" alt="figma" height="40" />
 
  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
