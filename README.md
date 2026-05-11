@@ -106,8 +106,8 @@
 const nusratJahan = {
   pronouns: "she/her",
   code: ["HTML", "CSS", "JavaScript"],
-  tools: ["React", "Tailwind CSS", "Git", "GitHub", "Vercel", "Netlify"],
-  learning: ["Next.js"],
+  tools: ["React", "Next.js", "Tailwind CSS", "Git", "GitHub", "Vercel", "Netlify"],
+  learning: ["ExpressJS"],
   currentFocus: [
     "Building scalable and responsive web applications",
     "Strengthening core JavaScript and React fundamentals",
