@@ -107,9 +107,10 @@
 ```javascript
 const nusratJahan = {
   pronouns: "she/her",
-  code: ["HTML", "CSS", "JavaScript"],
-  tools: ["React", "Next.js", "Tailwind CSS", "Git", "GitHub", "Vercel", "Netlify"],
-  learning: ["ExpressJS"],
+  frontend: ["HTML5, CSS3, Tailwind CSS, JavaScript ES6+, React.js, Next.js"],
+  backend: ["Node.js, Express.js, REST APIs, BetterAuth, JWT"],
+  database: ["MongoDB Atlas, Environment-secured credentials"],
+  tools: ["Git & GitHub, Figma, Netlify, Vercel, npm / Vite, VS Code"], 
   currentFocus: [
     "Building scalable and responsive web applications",
     "Strengthening core JavaScript and React fundamentals",
