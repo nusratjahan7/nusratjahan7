@@ -101,7 +101,6 @@
 
  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 
-
 </p>
 
 ```javascript
@@ -110,7 +109,7 @@ const nusratJahan = {
   frontend: ["HTML5, CSS3, Tailwind CSS, JavaScript ES6+, React.js, Next.js"],
   backend: ["Node.js, Express.js, REST APIs, BetterAuth, JWT"],
   database: ["MongoDB Atlas, Environment-secured credentials"],
-  tools: ["Git & GitHub, Figma, Netlify, Vercel, npm / Vite, VS Code"], 
+  tools: ["Git & GitHub, Figma, Netlify, Vercel, npm / Vite, VS Code"],
   currentFocus: [
     "Building scalable and responsive web applications",
     "Strengthening core JavaScript and React fundamentals",
