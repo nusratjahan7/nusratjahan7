@@ -122,4 +122,4 @@ const nusratJahan = {
 
 ## 📊 &nbsp;Github Stats
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nusratjahan7&bg_color=000000&color=ea75e3&line=992992&point=d19999&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Contribution Line Graph](https://git-activity-graph.vercel.app/api/graph?username=nusratjahan7&type=line&theme=custom&range=1y&background=0d1117&text=e6edf3&border=30363d&labelColor=8a9a8d&countColor=c5e88a&lineColor=f714ff&pointColor=7722c7&pointBorderColor=fafcff&areaColor=f714ff&gridColor=8d96a0&padding=25&borderRadius=2&lineWidth=2&smoothing=90&areaOpacity=40&groupBy=week)
